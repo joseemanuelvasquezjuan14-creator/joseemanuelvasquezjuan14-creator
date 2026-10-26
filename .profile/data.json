@@ -1,5 +1,5 @@
 {
- "key": "cdf6421e",
+ "key": "feb5df3d",
  "stars": 0,
  "contributions": 4,
  "repos": 1,
@@ -84,9 +84,13 @@
    {
     "c": 1,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null,
    null,
